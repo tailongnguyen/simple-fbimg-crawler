@@ -1,0 +1,8 @@
+clean.py
+*.ipynb
+*.txt
+crop_data/
+embeddings/
+final_data/
+scraped_data/
+*.db
